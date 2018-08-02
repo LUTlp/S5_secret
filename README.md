@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Ohé Moussaillon
+Bienvenue sur mon application de ce mardi !
+Tu peux retrouver le site qui correspond à ce code sur :
+https://secretlutlp.herokuapp.com/
 
-Things you may want to cover:
+La navbar fonctionne. Grand bien t'en fasse !
 
-* Ruby version
+## Marche à suivre
 
-* System dependencies
+Pour lire le code, lance ton ```bundle install --without production```
 
-* Configuration
+tu verras dans le gemfile qu'on ne gère pas la base de données de la même façon selon que nous sommes en test ou en production.
 
-* Database creation
+## Pour info
 
-* Database initialization
+* Ruby version : 2.5.1
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A bientôt,
+LUTlp, alias R.A.P.
